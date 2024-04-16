@@ -10,7 +10,7 @@ The primary goal of this project is to explore and implement interactive animati
 - **Jetpack Compose**: Built using modern Android development tools, specifically Jetpack Compose, for efficient UI development and animation handling.
 
 ### Demo
-![Animated watter bottle app](./assets/app.gif)
+<img src="./assets/app.gif" alt="Animated water bottle app" width="300">
 
 The provided GIF showcases the final result of the AnimatedWaterBottle app, demonstrating the interactive functionalities and animations in action.
 
